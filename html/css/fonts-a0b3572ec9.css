@@ -1,0 +1,20 @@
+﻿@font-face {
+    font-family:proxima_nova_rgregular;
+    src:url(../fonts/proximanova-regular-webfont.eot)
+}
+@font-face {
+    font-family:proxima_nova_rgregular;
+    src:url(../fonts/90cea3e0d4ca428585d3800d68ea18af.woff) format('woff'), url(../fonts/proximanova-regular-webfont.ttf) format('truetype');
+    font-weight:400;
+    font-style:normal
+}
+@font-face {
+    font-family:ralewaythin;
+    src:url(../fonts/raleway_thin-webfont.eot)
+}
+@font-face {
+    font-family:ralewaythin;
+    src:url(../fonts/b0404d49b07243b4b8477aa0caea678e.woff) format('woff'), url(../fonts/raleway_thin-webfont.ttf) format('truetype');
+    font-weight:400;
+    font-style:normal
+}
